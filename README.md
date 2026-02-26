@@ -1,10 +1,10 @@
-📊 Power BI Finance Dashboard
+# 📊 Power BI Finance Dashboard
 
 This project was created during Week 1 of the Microsoft Elevate AICTE Internship (Feb 2026).
 
 It is an Executive Summary Finance Report built using Power BI to analyze business performance through interactive visualizations.
 
-🔍 Features
+# 🔍 Features
 
 Monthly Profit Trend Analysis
 
@@ -14,7 +14,7 @@ Segment-wise Performance Comparison
 
 Year and Month Filters
 
-🎯 Objective
+# 🎯 Objective
 
 To understand financial performance and generate meaningful insights using data visualization techniques.
 
@@ -22,7 +22,7 @@ To understand financial performance and generate meaningful insights using data 
 
 Microsoft Power BI
 
-💡 Skills Demonstrated
+# 💡 Skills Demonstrated
 
 Data Visualization
 
@@ -32,6 +32,6 @@ Business Insight Analysis
 
 Interactive Reporting
 
-📌 Internship Context
+# 📌 Internship Context
 
 Developed as part of the Microsoft Elevate Internship program to gain practical experience in emerging technologies.
