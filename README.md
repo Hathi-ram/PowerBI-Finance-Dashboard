@@ -1,5 +1,8 @@
 # 📊 Power BI Finance Dashboard
 
+<img width="2734" height="1352" alt="image" src="https://github.com/user-attachments/assets/29c58569-7a01-401c-87bf-1e75fcba18b3" />
+
+
 This project was created during Week 1 of the Microsoft Elevate AICTE Internship (Feb 2026).
 
 It is an Executive Summary Finance Report built using Power BI to analyze business performance through interactive visualizations.
