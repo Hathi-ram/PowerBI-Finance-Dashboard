@@ -2,37 +2,47 @@
 
 <img width="2734" height="1352" alt="image" src="https://github.com/user-attachments/assets/29c58569-7a01-401c-87bf-1e75fcba18b3" />
 
+This project was developed during Week 1 of the Microsoft Elevate AICTE Internship (Feb 2026).
 
-This project was created during Week 1 of the Microsoft Elevate AICTE Internship (Feb 2026).
+It is an Executive Summary Finance Report built to analyze financial performance using interactive Power BI visualizations.
 
-It is an Executive Summary Finance Report built using Power BI to analyze business performance through interactive visualizations.
+ # 🔍 Key Insights Identified
 
-# 🔍 Features
+From this dashboard, I observed:
 
-Monthly Profit Trend Analysis
+Profit trends vary across months, showing growth and decline patterns
 
-Profit by Country
+Certain countries contribute more to overall profit
 
-Segment-wise Performance Comparison
+Different business segments perform differently in terms of profitability
 
-Year and Month Filters
+# 📊 Information Analyzed
+
+The dashboard helped in understanding:
+
+Monthly financial performance
+
+Country-wise profit contribution
+
+Segment-based business performance
 
 # 🎯 Objective
 
-To understand financial performance and generate meaningful insights using data visualization techniques.
+To explore financial data and generate meaningful insights through visualization.
 
 🛠 Tools Used
 
 Microsoft Power BI
 
-# 💡 Skills Demonstrated
+# 💡 Skills Gained
 
-Data Visualization
+Data Interpretation
 
-Dashboard Creation
+Dashboard Design
 
 Business Insight Analysis
 
+Interactive Reporting
 Interactive Reporting
 
 # 📌 Internship Context
